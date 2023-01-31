@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="inconsistency_vs_sample_num_image">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Consistency_Robustness_experiments/inconsistency_vs_sample_num_image.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
